@@ -1,3 +1,7 @@
+<?php
+include 'connection.php'; // inclui o arquivo de conexão
+?>
+
 <!doctype html>
 <html lang="pt-br">
   <head>

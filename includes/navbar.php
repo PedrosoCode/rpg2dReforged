@@ -21,6 +21,7 @@
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="pages/weapons.php">Página de armas</a></li>
+            <li><a class="dropdown-item" href="pages/attributesList.php">Página de Atributos</a></li>
             <li><a class="dropdown-item" href="#">Another action</a></li>
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>   
